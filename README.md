@@ -20,7 +20,7 @@ cd portfolio
 | --- | --- |
 | Frontend | Vue.js, Nuxt.js, Svelte, WebSquare, JavaScript |
 | Backend | Java, Spring Boot, Spring Batch, 외부 API 연동 |
-| Tools | Git, SVN |
+| Tools & CI/CD | Jenkins, Git, SVN |
 
 ## 👩‍💻 경력 요약 (2021.10 ~ 2025.04 · 약 3년 6개월)
 
