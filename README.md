@@ -5,7 +5,7 @@ Vue/Nuxt·Svelte 프론트엔드부터 Spring Boot 백엔드까지, 정확성이
 
 ## 🔗 미리보기
 
-- **Live:** _(GitHub Pages 활성화 후 링크 추가 예정)_
+- **Live:** https://biori472.github.io/portfolio/
 - **로컬 실행:** 저장소를 받은 뒤 `index.html`을 브라우저에서 열면 됩니다.
 
 ```bash
